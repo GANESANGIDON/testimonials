@@ -1,0 +1,76 @@
+{
+  "candidate": [
+    {
+      "id": "1",
+      "img": "images/profile-pics/vineetha.jpg",
+      "name": "Vineetha",
+      "country": "India",
+      "flag": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.3/flags/4x3/in.svg",
+      "description": "I was in my 2nd year of Engineering. I was looking for resources online to learn Data Structures and Algorithm concepts. I came to know about Log2Base2 through ads and I was really impressed with their way of teaching. Concepts are explained really well. I feel this is the best way of teaching. At Log2Base2 all foundational concepts are explained in a very simple way and you will definitely build your programming skills. Log2Base2's courses will be helpful for all beginners."
+    },
+    {
+      "id": "2",
+      "img": "images/profile-pics/sasha.png",
+      "name": "Sasha Ofori",
+      "country": "Ghana",
+      "flag": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.3/flags/4x3/gh.svg",
+      "description": "I like how short the video sessions are. For someone who has a short attention span, this really helps to grasp ideas within a shorter time. The voice-over is very clear and understandable. Usually, for me, the accent is a barrier watching most educational videos. But here, I was able to follow the voice-over very clearly. Kudos. I really love this platform and it is the first online course I have eagerly paid for. I hope to watch more videos on the platform too."
+    },
+    {
+      "id": "3",
+      "img": "images/profile-pics/abishek.jpg",
+      "name": "Abhishek",
+      "country": "India",
+      "flag": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.3/flags/4x3/in.svg",
+      "description": "One of the difficulties most beginner programmers face is the ability to understand what is happening once a line of code is executed. It is scientifically proven that visualisation is more helpful to understand concepts better and Log2Base2 does an excellent job in that area. Log2Base2 explains what happens when the code gets executed using beautiful visuals which helps to understand and grasp tough and important concepts like data structures and algorithms."
+    },
+    {
+      "id": "4",
+      "img": "images/profile-pics/soufiane.png",
+      "name": "Soufiane Serghini",
+      "country": "Morocco",
+      "flag": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.3/flags/4x3/ma.svg",
+      "description": "I personally really enjoy learning from Log2Base2, This is my first programming course, very comprehensive, I learned more things than I expected, The way how the animated video explains topics is fantastic. Thank you team Log2Base2!"
+    },
+    {
+      "id": "5",
+      "img": "images/profile-pics/john.png",
+      "name": "John Nonso",
+      "country": "Nigeria",
+      "flag": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.3/flags/4x3/ng.svg",
+      "description": "I have been wondering if it was ever possible to understand complex data structures and algorithms. But I finally found a good resource 'LOG2BASE2', I advise fellow learners like me if you want to learn tricks that make algorithms simple and easy to understand please use 'LOG2BASE2', And finally I would really like to thank this organization for the support they are providing for students who are facing challenges affording the course. I wish the world have more organizations like you"
+    },
+    {
+      "id": "6",
+      "img": "images/profile-pics/bharath.jpg",
+      "name": "Bharath",
+      "country": "India",
+      "flag": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.3/flags/4x3/in.svg",
+      "description": "Log2Base2 is the best online platform for basic programming knowledge. It is useful for both beginners and intermediate. Complex concepts can be easily learned by visual learning method. A student can boldly face interviews after learning from Log2Base2."
+    },
+    {
+      "id": "7",
+      "img": "images/profile-pics/sarwesh.jpg",
+      "name": "Sarwesh Kumar",
+      "country": "India",
+      "flag": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.3/flags/4x3/in.svg",
+      "description": "I was looking for some good resource to learn Data Structures concepts which I found it challenging. Came to know Log2base2 through ad. I browsed through site and immediately got my subscription through Student Offer scheme. The way they convey complex topic within a short period of time is really amazing and I find it very useful to for me."
+    },
+    {
+      "id": "8",
+      "img": "images/profile-pics/rohan.jpg",
+      "name": "Rohan Joshi",
+      "country": "India",
+      "flag": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.3/flags/4x3/in.svg",
+      "description": "I was in my 2nd year of Engineering, in need of a resource that would help me to learn concepts in Data Structures and Algorithms and I found Log2Base2. After subscribing to the courses, I found that not only me even a 5th standard student can learn easily through this platform. I would recommend Log2Base2 for anyone curious about computers, beginners as well as experts who are willing to strengthen their fundamentals. And one more important aspect, Log2Base2 has strong customer support management, so where ever you get stuck, their team is there to help you."
+    },
+    {
+      "id": "9",
+      "img": "images/profile-pics/mohamed.png",
+      "name": "Mohamed Touli",
+      "country": "Morocco",
+      "flag": "https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.4.3/flags/4x3/ma.svg",
+      "description": "Courses at Log2Base2 are very helpful for me. The way it is explained with nice visualization helps me to understand all the concepts. And also, I am happy that I am able to practice the concepts I learned with the help of the exercises given below."
+    }
+  ]
+}

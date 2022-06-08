@@ -1,13 +1,15 @@
 import React from "react";
-import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import {CompanyUsers} from "./pages";
+import { CompanyUsers, Testimonials, UniversityUsers } from "./pages";
 
-export default function App(){
-  return(
+export default function App() {
+  return (
     <>
-    <CompanyUsers />
+      <CompanyUsers />
+      <UniversityUsers />
+      <Testimonials />
     </>
-  )
+  );
 }

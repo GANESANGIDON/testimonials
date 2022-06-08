@@ -1,7 +1,7 @@
 import React from "react";
 import Slider from "react-slick";
 import { Container } from "react-bootstrap";
-import Certificates from "../pages/Certificates";
+import {CertificatesItem} from "../components";
 
 export default function CertificatesCarousel() {
   const responsivness = [
@@ -43,13 +43,9 @@ export default function CertificatesCarousel() {
   return (
     <>
       <Container>
-      <Slider {...settings}>
-        {/* {CompanyUsersData.map((data) => {
-          return (
-            <Certificates />
-          );
-        })} */}
-      </Slider>
+        <Slider {...settings}>
+          <CertificatesItem />
+        </Slider>
       </Container>
     </>
   );

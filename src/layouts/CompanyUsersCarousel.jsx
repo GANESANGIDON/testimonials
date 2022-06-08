@@ -1,14 +1,16 @@
-import React from 'react';
+import React from "react";
 import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
-import "../assets/css/usersCarousel.css";
+import CompanyUsersData from "../assets/json/CompanyUsersData.json";
 import { Container, Row, Col } from "react-bootstrap";
+import {CompanyUsersItem} from "../components";
 
-export default function UniversityUsersCarousel(){
+export default function CompanyUsersCarousel() {
   const responsiveOptions = {
     0: {
       items: 3,
+      margin: 20
     },
     481: {
       items: 4,
@@ -20,7 +22,7 @@ export default function UniversityUsersCarousel(){
       items: 6,
     },
     1400: {
-      items: 7,
+      items: 6,
     },
   };
 
@@ -37,18 +39,13 @@ export default function UniversityUsersCarousel(){
     <>
       <Container className="my-4">
         <Row>
-          <Col xl ={10} lg = {10} className = "mx-auto">
+          <Col xl ={10} lg = {10} xxl = {12} className = "mx-auto">
             <OwlCarousel {...options}>
-              {/* {CompanyUsersData.map((data) => {
+              {CompanyUsersData.map((data) => {
                 return (
-                  <img
-                    key={data.id}
-                    src={data.img}
-                    alt={`img ${data.id}`}
-                    className="company-img"
-                  />
+                  <CompanyUsersItem key = {data.id} data = {data} />
                 );
-              })} */}
+              })}
             </OwlCarousel>
           </Col>
         </Row>

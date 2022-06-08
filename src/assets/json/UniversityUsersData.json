@@ -1,6 +1,212 @@
 [
   {
-    "id":"1",
-    "img": "images/universities/"
+    "id": "1",
+    "img": "images/universities/ASU-Emblem.png",
+    "name": "ASU"
+  },
+  {
+    "id": "2",
+    "img": "images/universities/banasthali.png",
+    "name": "Banasthali"
+  },
+  {
+    "id": "3",
+    "img": "images/universities/bcet.jpeg",
+    "name": "BCET"
+  },
+  {
+    "id": "4",
+    "img": "images/universities/Bennett_University.png",
+    "name": "Bennett University"
+  },
+  {
+    "id": "5",
+    "img": "images/universities/bharathUniversity.png",
+    "name": "Bharath University"
+  },
+  {
+    "id": "6",
+    "img": "images/universities/bitBlore.png",
+    "name": "BIT"
+  },
+  {
+    "id": "7",
+    "img": "images/universities/bitsPlani.png",
+    "name": "Bits Pilani"
+  },
+  {
+    "id": "8",
+    "img": "images/universities/ceg.png",
+    "name": "CEG"
+  },
+  {
+    "id": "9",
+    "img": "images/universities/Florida_International_University.png",
+    "name": "FIU"
+  },
+  {
+    "id": "10",
+    "img": "images/universities/galgotias.png",
+    "name": "Galgotias University"
+  },
+  {
+    "id": "11",
+    "img": "images/universities/harvard.png",
+    "name": "Harvard"
+  },
+  {
+    "id": "12",
+    "img": "images/universities/iiest.png",
+    "name": "IIEST"
+  },
+  {
+    "id": "13",
+    "img": "images/universities/iiitd.png",
+    "name": "IIITD"
+  },
+  {
+    "id": "14",
+    "img": "images/universities/iiitm.png",
+    "name": "IIITM"
+  },
+  {
+    "id": "15",
+    "img": "images/universities/iitDelhi.png",
+    "name": "IIT"
+  },
+  {
+    "id": "16",
+    "img": "images/universities/jaypee.png",
+    "name": "JAYPEE"
+  },
+  {
+    "id": "17",
+    "img": "images/universities/karunya.png",
+    "name": "Karunya University"
+  },
+  {
+    "id": "18",
+    "img": "images/universities/kurukshetra.png",
+    "name": "Kurukshetra University"
+  },
+  {
+    "id": "19",
+    "img": "images/universities/lovely.png",
+    "name": "LP University"
+  },
+  {
+    "id": "20",
+    "img": "images/universities/mumbai.png",
+    "name": "Mumbai University"
+  },
+  {
+    "id": "21",
+    "img": "images/universities/nitAgarthala.png",
+    "name": "NIT"
+  },
+  {
+    "id": "22",
+    "img": "images/universities/nitDurgapur.png",
+    "name": "NIT"
+  },
+  {
+    "id": "23",
+    "img": "images/universities/nitRajpur.png",
+    "name": "NIT"
+  },
+  {
+    "id": "24",
+    "img": "images/universities/nitSriNagar.png",
+    "name": "NIT"
+  },
+  {
+    "id": "25",
+    "img": "images/universities/nitUttarakhand.jpeg",
+    "name": "NIT"
+  },
+  {
+    "id": "26",
+    "img": "images/universities/nus.png",
+    "name": "NUS"
+  },
+  {
+    "id": "27",
+    "img": "images/universities/pcce.png",
+    "name": "PCCE"
+  },
+  {
+    "id": "28",
+    "img": "images/universities/psg.png",
+    "name": "PSG"
+  },
+  {
+    "id": "29",
+    "img": "images/universities/rit.png",
+    "name": "RIT"
+  },
+  {
+    "id": "30",
+    "img": "images/universities/SAS.png",
+    "name": "SAS"
+  },
+  {
+    "id": "31",
+    "img": "images/universities/sastra.png",
+    "name": "Sastra University"
+  },
+  {
+    "id": "32",
+    "img": "images/universities/se.png",
+    "name": "SE University"
+  },
+  {
+    "id": "33",
+    "img": "images/universities/sgsits.png",
+    "name": "SGSITS"
+  },
+  {
+    "id": "34",
+    "img": "images/universities/sist.png",
+    "name": "SIST"
+  },
+  {
+    "id": "35",
+    "img": "images/universities/skcet.png",
+    "name": "SKCET"
+  },
+  {
+    "id": "36",
+    "img": "images/universities/soa.png",
+    "name": "SOA University"
+  },
+  {
+    "id": "37",
+    "img": "images/universities/tcet.jpeg",
+    "name": "TCET"
+  },
+  {
+    "id": "38",
+    "img": "images/universities/techno.png",
+    "name": "TECHNO"
+  },
+  {
+    "id": "39",
+    "img": "images/universities/ucberkeley-black.png",
+    "name": "UC Berkeley"
+  },
+  {
+    "id": "40",
+    "img": "images/universities/utd.png",
+    "name": "UTD"
+  },
+  {
+    "id": "41",
+    "img": "images/universities/viit.png",
+    "name": "VIIT"
+  },
+  {
+    "id": "42",
+    "img": "images/universities/vvce.png",
+    "name": "VVCE"
   }
 ]

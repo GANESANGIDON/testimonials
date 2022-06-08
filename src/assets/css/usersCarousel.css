@@ -1,4 +1,22 @@
+.owl-stage{
+  display: flex;
+  align-items: center;
+}
+
 .company-img{
   max-width: 95px !important;
   margin: auto;
+}
+
+.university-card{
+  background-color: transparent;
+  border: none;
+}
+
+.university-img{
+  max-width: 75px !important;
+}
+
+.university-text{
+  line-height: normal;
 }

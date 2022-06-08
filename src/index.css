@@ -6,4 +6,9 @@
 
 body{
   width: 100%;
+  background-color: #F2F5FE !important;
+}
+
+:root{
+  font-size: 14px;
 }

@@ -1,10 +1,10 @@
-import React from 'react';
-import { UniversityUsersCarousel } from '../components';
+import React from "react";
+import { UniversityUsersCarousel } from "../layouts";
 
-export default function UniversityUsers(){
-return(
-<>
-<UniversityUsersCarousel />
-</>
-);
+export default function UniversityUsers() {
+  return (
+    <>
+      <UniversityUsersCarousel />
+    </>
+  );
 }

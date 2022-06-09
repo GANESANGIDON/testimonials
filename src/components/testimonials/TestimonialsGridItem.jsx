@@ -1,6 +1,6 @@
 import React from "react";
 import { Card } from "react-bootstrap";
-import "../assets/css/testimonialsGridItem.css";
+import "./testimonialsGridItem.css";
 
 export default function TestimonialsGridItem({ data }) {
   return (

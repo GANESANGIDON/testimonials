@@ -1,5 +1,5 @@
 import React from "react";
-import { CompanyUsersCarousel } from "../layouts";
+import CompanyUsersCarousel from "./CompanyUsersCarousel";
 
 export default function CompanyUsers() {
   return (

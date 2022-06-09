@@ -1,14 +1,15 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-body{
+body {
   width: 100%;
-  background-color: #F2F5FE !important;
+  padding-top: 65px;
+  background-color: #f2f5fe !important;
 }
 
-:root{
+:root {
   font-size: 14px;
 }

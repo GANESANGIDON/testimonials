@@ -1,5 +1,5 @@
 import React from "react";
-import "../assets/css/usersCarousel.css";
+import "./usersCarousel.css";
 
 export default function CompanyUsersItem({ data }) {
   return (

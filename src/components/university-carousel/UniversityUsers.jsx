@@ -1,5 +1,5 @@
 import React from "react";
-import { UniversityUsersCarousel } from "../layouts";
+import UniversityUsersCarousel from "./UniversityUsersCarousel";
 
 export default function UniversityUsers() {
   return (

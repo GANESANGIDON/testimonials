@@ -2,15 +2,15 @@ import React from "react";
 import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
-import CompanyUsersData from "../assets/json/CompanyUsersData.json";
-import { Container, Row, Col } from "react-bootstrap";
-import {CompanyUsersItem} from "../components";
+import CompanyUsersData from "./CompanyUsersData.json";
+import CompanyUsersItem from "./CompanyUsersItem";
+import { Row } from "react-bootstrap";
 
 export default function CompanyUsersCarousel() {
   const responsiveOptions = {
     0: {
       items: 3,
-      margin: 20
+      margin: 20,
     },
     481: {
       items: 4,
@@ -37,19 +37,15 @@ export default function CompanyUsersCarousel() {
 
   return (
     <>
-      <Container className="my-4">
-        <Row>
-          <Col xl ={10} lg = {10} xxl = {12} className = "mx-auto">
-            <OwlCarousel {...options}>
-              {CompanyUsersData.map((data) => {
-                return (
-                  <CompanyUsersItem key = {data.id} data = {data} />
-                );
-              })}
-            </OwlCarousel>
-          </Col>
+      <div className="w-100">
+        <Row className="col-11 col-xl-10 px-xl-3 mx-auto">
+          <OwlCarousel {...options}>
+            {CompanyUsersData.map((data) => {
+              return <CompanyUsersItem key={data.id} data={data} />;
+            })}
+          </OwlCarousel>
         </Row>
-      </Container>
+      </div>
     </>
   );
 }

@@ -2,9 +2,9 @@ import React from "react";
 import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
-import UniversityUsersData from "../assets/json/UniversityUsersData.json";
-import { Container, Row, Col } from "react-bootstrap";
-import { UniversityUsersItem } from "../components";
+import UniversityUsersData from "./UniversityUsersData.json";
+import UniversityUsersItem from "./UniversityUsersItem";
+import { Row } from "react-bootstrap";
 
 export default function UniversityUsersCarousel() {
   const responsiveOptions = {
@@ -18,16 +18,16 @@ export default function UniversityUsersCarousel() {
       items: 5,
     },
     992: {
-      items: 6,
+      items: 7,
     },
     1400: {
-      items: 7,
+      items: 8,
     },
   };
 
   const options = {
     autoplay: true,
-    autoplaySpeed: 2200,
+    autoplaySpeed: 2000,
     autoplayTimeout: 1800,
     loop: true,
     dots: false,
@@ -36,17 +36,15 @@ export default function UniversityUsersCarousel() {
 
   return (
     <>
-      <Container className="my-4">
-        <Row>
-          <Col xl={10} lg={10} xxl={12} className="mx-auto">
-            <OwlCarousel {...options}>
-              {UniversityUsersData.map((data) => {
-                return <UniversityUsersItem key={data.id} data={data} />;
-              })}
-            </OwlCarousel>
-          </Col>
+      <div className="w-100">
+        <Row className="col-11 col-xl-10 px-xl-3 mx-auto">
+          <OwlCarousel {...options}>
+            {UniversityUsersData.map((data) => {
+              return <UniversityUsersItem key={data.id} data={data} />;
+            })}
+          </OwlCarousel>
         </Row>
-      </Container>
+      </div>
     </>
   );
 }

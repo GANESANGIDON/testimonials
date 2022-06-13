@@ -4,7 +4,7 @@
 }
 
 .company-img{
-  max-width: 95px !important;
+  max-width: 105px !important;
   margin: auto;
 }
 
@@ -14,9 +14,10 @@
 }
 
 .university-img{
-  max-width: 75px !important;
+  max-width: 85px !important;
 }
 
 .university-text{
+  font-size: 0.8rem;
   line-height: normal;
 }

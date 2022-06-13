@@ -37,7 +37,7 @@ export default function CompanyUsersCarousel() {
 
   return (
     <>
-      <div className="w-100">
+      <div className="w-100 my-2">
         <Row className="col-11 col-xl-10 px-xl-3 mx-auto">
           <OwlCarousel {...options}>
             {CompanyUsersData.map((data) => {

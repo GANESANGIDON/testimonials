@@ -1,26 +1,42 @@
 [
   {
-    "id": "1",
-    "img": "images/companies/microsoft.png"
+    "id":"1",
+    "img":"images/companies/google.png"
   },
   {
-    "id": "2",
-    "img": "images/companies/paypal.png"
+    "id":"2",
+    "img":"images/companies/amazon.png"
   },
   {
     "id": "3",
-    "img": "images/companies/samsung.png"
+    "img": "images/companies/microsoft.png"
   },
   {
     "id": "4",
-    "img": "images/companies/cisco.png"
+    "img": "images/companies/paypal.png"
   },
   {
-    "id": "5",
-    "img": "images/companies/fourkites.png"
+    "id":"5",
+    "img":"images/companies/cisco.png"
   },
   {
     "id": "6",
+    "img": "images/companies/atlassian.png"
+  },
+  {
+    "id":"7",
+    "img":"images/companies/samsung.png"
+  },
+  {
+    "id": "8",
+    "img": "images/companies/vmware.png"
+  },
+  {
+    "id": "9",
+    "img": "images/companies/fourkites.png"
+  },
+  {
+    "id": "10",
     "img": "images/companies/Gigamon.png"
   }
 ]

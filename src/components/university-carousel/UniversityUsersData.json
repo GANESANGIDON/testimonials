@@ -5,6 +5,11 @@
     "name":"Penn Arts & Science"
   },
   {
+    "id": "2",
+    "img": "images/universities/uc-berkeley.png",
+    "name": "UC Berkeley"
+  },
+  {
     "id": "3",
     "img": "images/universities/nit-durgapur.png",
     "name": "NIT Durgapur"
@@ -32,7 +37,7 @@
   {
     "id": "8",
     "img": "images/universities/fiu.png",
-    "name": "FIU"
+    "name": "Florida International University"
   },
   {
     "id":"9",
@@ -76,7 +81,7 @@
   {
     "id": "17",
     "img": "images/universities/nus.png",
-    "name": "National University of Singapore"
+    "name": "National University Singapore"
   },
   {
     "id": "18",
@@ -99,45 +104,60 @@
     "name": "NIT Agarthala"
   },
   {
-    "id": "23",
+    "id": "22",
     "img": "images/universities/nit-rajpur.png",
     "name": "NIT Rajpur"
   },
   {
-    "id": "25",
-    "img": "images/universities/nit-uttarakhand.jpeg",
+    "id": "23",
+    "img": "images/universities/nit-uttarakhand.png",
     "name": "NIT Uttarakhand"
   },
   
   {
-    "id": "27",
+    "id": "24",
     "img": "images/universities/pcce.png",
-    "name": "PCCE"
+    "name": "PCCE College"
   },
+  {
+    "id": "25",
+    "img": "images/universities/psg.png",
+    "name": "PSG College"
+  },
+  {
+    "id": "26",
+    "img": "images/universities/rit.png",
+    "name": "Rochester New York"
+  },
+  {
+    "id": "27",
+    "img": "images/universities/iiitd.png",
+    "name": "IIITD Kancheepuram"
+  }, 
   {
     "id": "28",
-    "img": "images/universities/psg.png",
-    "name": "PSG"
-  },
-  {
-    "id": "29",
-    "img": "images/universities/rit.png",
-    "name": "Rochester USA"
-  },
-  {
-    "id": "30",
-    "img": "images/universities/sas.png",
-    "name": "SAS"
-  },
-  {
-    "id": "31",
     "img": "images/universities/sastra.png",
     "name": "Sastra University"
   },
   {
-    "id": "32",
+    "id": "29",
     "img": "images/universities/se.png",
     "name": "SouthEast University"
+  },
+  {
+    "id": "30",
+    "img": "images/universities/jaypee.png",
+    "name": "JAYPEE Noida"
+  },
+  {
+    "id": "31",
+    "img": "images/universities/kurukshetra.png",
+    "name": "Kurukshetra University"
+  },
+  {
+    "id": "32",
+    "img": "images/universities/lovely.png",
+    "name": "Lovely Professional"
   },
   {
     "id": "33",
@@ -161,7 +181,7 @@
   },
   {
     "id": "37",
-    "img": "images/universities/tcet.jpeg",
+    "img": "images/universities/tcet.png",
     "name": "Thakur College"
   },
   {
@@ -171,8 +191,8 @@
   },
   {
     "id": "39",
-    "img": "images/universities/uc-berkeley.png",
-    "name": "UC Berkeley"
+    "img": "images/universities/iiitm.png",
+    "name": "IIITM Kerala"
   },
   {
     "id": "40",
@@ -191,7 +211,7 @@
   },
   {
     "id": "43",
-    "img": "images/universities/bcet.jpeg",
+    "img": "images/universities/bcet.png",
     "name": "BCET"
   },
   {
@@ -213,30 +233,5 @@
     "id": "47",
     "img": "images/universities/iiest.png",
     "name": "IIEST Shibpur"
-  },
-  {
-    "id": "48",
-    "img": "images/universities/iiitd.png",
-    "name": "IIITD Kancheepuram"
-  },
-  {
-    "id": "49",
-    "img": "images/universities/iiitm.png",
-    "name": "IIITM Kerala"
-  },
-  {
-    "id": "50",
-    "img": "images/universities/jaypee.png",
-    "name": "JAYPEE"
-  },
-  {
-    "id": "51",
-    "img": "images/universities/kurukshetra.png",
-    "name": "Kurukshetra University"
-  },
-  {
-    "id": "52",
-    "img": "images/universities/lovely.png",
-    "name": "LP University"
   }
 ]

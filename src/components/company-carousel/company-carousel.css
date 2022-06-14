@@ -1,0 +1,9 @@
+.owl-stage{
+  display: flex;
+  align-items: center;
+}
+
+.company-img{
+  max-width: 120px !important;
+  margin: auto;
+}

@@ -2,9 +2,9 @@ import React from "react";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { CompanyUsers } from "./components/company-carousel";
-import { UniversityUsers } from "./components/university-carousel";
-import { Testimonials } from "./components/testimonials";
+import CompanyUsers from "./components/company-carousel";
+import UniversityUsers from "./components/university-carousel";
+import Testimonials from "./components/testimonials";
 import { Button, Navbar } from "react-bootstrap";
 
 export default function App() {

@@ -1,237 +1,195 @@
 [
   {
-    "id":"1",
-    "img":"images/universities/penn-arts.png",
-    "name":"Penn Arts & Science"
+    "id": "1",
+    "img": "images/universities/penn-arts.png"
   },
   {
     "id": "2",
-    "img": "images/universities/uc-berkeley.png",
-    "name": "UC Berkeley"
+    "img": "images/universities/uc-berkeley.png"
   },
   {
     "id": "3",
-    "img": "images/universities/nit-durgapur.png",
-    "name": "NIT Durgapur"
+    "img": "images/universities/nit-durgapur.png"
   },
   {
     "id": "4",
-    "img": "images/universities/iit-delhi.png",
-    "name": "IIT Delhi"
+    "img": "images/universities/iit-delhi.png"
   },
   {
     "id": "5",
-    "img": "images/universities/harvard.png",
-    "name": "Harvard"
+    "img": "images/universities/harvard.png"
   },
   {
     "id": "6",
-    "img": "images/universities/asu.png",
-    "name": "Arizona State University"
+    "img": "images/universities/asu.png"
   },
   {
-    "id":"7",
-    "img":"images/universities/brac.png",
-    "name":"BRAC"
+    "id": "7",
+    "img": "images/universities/brac.png"
   },
   {
     "id": "8",
-    "img": "images/universities/fiu.png",
-    "name": "Florida International University"
+    "img": "images/universities/fiu.png"
   },
   {
-    "id":"9",
-    "img":"images/universities/north-south.png",
-    "name":"North South University"
+    "id": "9",
+    "img": "images/universities/north-south.png"
   },
   {
-    "id":"10",
-    "img":"images/universities/nigeria.png",
-    "name":"University of Nigeria"
-  },{
-    "id":"11",
-    "img":"images/universities/covenant.png",
-    "name":"Covenant University"
+    "id": "10",
+    "img": "images/universities/nigeria.png"
   },
   {
-    "id":"12",
-    "img":"images/universities/iub.png",
-    "name":"Independent University Bangladesh"
+    "id": "11",
+    "img": "images/universities/covenant.png"
   },
   {
-    "id":"13",
-    "img":"images/universities/mumbai.png",
-    "name":"Mumbai University"
+    "id": "12",
+    "img": "images/universities/iub.png"
+  },
+  {
+    "id": "13",
+    "img": "images/universities/mumbai.png"
   },
   {
     "id": "14",
-    "img": "images/universities/bennett.png",
-    "name": "Bennett University"
+    "img": "images/universities/bennett.png"
   },
   {
     "id": "15",
-    "img": "images/universities/bits-pilani.png",
-    "name": "Bits Pilani"
+    "img": "images/universities/bits-pilani.png"
   },
   {
     "id": "16",
-    "img": "images/universities/nit-srinagar.png",
-    "name": "NIT Srinagar"
+    "img": "images/universities/nit-srinagar.png"
   },
   {
     "id": "17",
-    "img": "images/universities/nus.png",
-    "name": "National University Singapore"
+    "img": "images/universities/nus.png"
   },
   {
     "id": "18",
-    "img": "images/universities/karunya.png",
-    "name": "Karunya University"
+    "img": "images/universities/karunya.png"
   },
   {
     "id": "19",
-    "img": "images/universities/ceg.png",
-    "name": "College of Engineering Guindy"
+    "img": "images/universities/ceg.png"
   },
   {
     "id": "20",
-    "img": "images/universities/viit.png",
-    "name": "Vishwakarma Institute"
+    "img": "images/universities/viit.png"
   },
   {
     "id": "21",
-    "img": "images/universities/nit-agarthala.png",
-    "name": "NIT Agarthala"
+    "img": "images/universities/nit-agartala.png"
   },
   {
     "id": "22",
-    "img": "images/universities/nit-rajpur.png",
-    "name": "NIT Rajpur"
+    "img": "images/universities/nit-rajpur.png"
   },
   {
     "id": "23",
-    "img": "images/universities/nit-uttarakhand.png",
-    "name": "NIT Uttarakhand"
+    "img": "images/universities/nit-uttarakhand.png"
   },
-  
+
   {
     "id": "24",
-    "img": "images/universities/pcce.png",
-    "name": "PCCE College"
+    "img": "images/universities/pcce.png"
   },
   {
     "id": "25",
-    "img": "images/universities/psg.png",
-    "name": "PSG College"
+    "img": "images/universities/psg.png"
   },
   {
     "id": "26",
-    "img": "images/universities/rit.png",
-    "name": "Rochester New York"
+    "img": "images/universities/rit.png"
   },
   {
     "id": "27",
-    "img": "images/universities/iiitd.png",
-    "name": "IIITD Kancheepuram"
-  }, 
+    "img": "images/universities/iiitd.png"
+  },
   {
     "id": "28",
-    "img": "images/universities/sastra.png",
-    "name": "Sastra University"
+    "img": "images/universities/sastra.png"
   },
   {
     "id": "29",
-    "img": "images/universities/se.png",
-    "name": "SouthEast University"
+    "img": "images/universities/se.png"
   },
   {
     "id": "30",
-    "img": "images/universities/jaypee.png",
-    "name": "JAYPEE Noida"
+    "img": "images/universities/jaypee.png"
   },
   {
     "id": "31",
-    "img": "images/universities/kurukshetra.png",
-    "name": "Kurukshetra University"
+    "img": "images/universities/kurukshetra.png"
   },
   {
     "id": "32",
-    "img": "images/universities/lovely.png",
-    "name": "Lovely Professional"
+    "img": "images/universities/lovely.png"
   },
   {
     "id": "33",
-    "img": "images/universities/sgsits.png",
-    "name": "SGSITS"
+    "img": "images/universities/sgsits.png"
   },
   {
     "id": "34",
-    "img": "images/universities/sist.png",
-    "name": "Sathyabama University"
+    "img": "images/universities/sist.png"
   },
   {
     "id": "35",
-    "img": "images/universities/skcet.png",
-    "name": "SKCET"
+    "img": "images/universities/skct.png"
   },
   {
     "id": "36",
-    "img": "images/universities/soa.png",
-    "name": "SOA University"
+    "img": "images/universities/soa.png"
   },
   {
     "id": "37",
-    "img": "images/universities/tcet.png",
-    "name": "Thakur College"
+    "img": "images/universities/tcet.png"
   },
   {
     "id": "38",
-    "img": "images/universities/techno.png",
-    "name": "TECHNO"
+    "img": "images/universities/techno.png"
   },
   {
     "id": "39",
-    "img": "images/universities/iiitm.png",
-    "name": "IIITM Kerala"
+    "img": "images/universities/iiitm.png"
   },
   {
     "id": "40",
-    "img": "images/universities/utd.png",
-    "name": "University of Texas"
+    "img": "images/universities/utd.png"
   },
   {
     "id": "41",
-    "img": "images/universities/banasthali.png",
-    "name": "Banasthali"
+    "img": "images/universities/banasthali.png"
   },
   {
     "id": "42",
-    "img": "images/universities/vvce.png",
-    "name": "VVCE"
+    "img": "images/universities/vvce.png"
   },
   {
     "id": "43",
-    "img": "images/universities/bcet.png",
-    "name": "BCET"
+    "img": "images/universities/bcet.png"
   },
   {
     "id": "44",
-    "img": "images/universities/galgotias.png",
-    "name": "Galgotias University"
+    "img": "images/universities/galgotias.png"
   },
   {
     "id": "45",
-    "img": "images/universities/bharath-university.png",
-    "name": "Bharath University"
+    "img": "images/universities/bharath-university.png"
   },
   {
     "id": "46",
-    "img": "images/universities/bit-blore.png",
-    "name": "BIT"
+    "img": "images/universities/bit-blore.png"
   },
   {
     "id": "47",
-    "img": "images/universities/iiest.png",
-    "name": "IIEST Shibpur"
+    "img": "images/universities/iiest.png"
+  },
+  {
+    "id":"48",
+    "img":"images/universities/ignou.png"
   }
 ]

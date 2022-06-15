@@ -10,7 +10,6 @@ export default function CompanyUsersCarousel() {
   const responsiveOptions = {
     0: {
       items: 3,
-      margin: 20,
     },
     481: {
       items: 4,
@@ -22,7 +21,7 @@ export default function CompanyUsersCarousel() {
       items: 6,
     },
     1400: {
-      items: 6,
+      items: 7,
     },
   };
 
@@ -37,7 +36,7 @@ export default function CompanyUsersCarousel() {
 
   return (
     <>
-      <div className="w-100 my-2">
+      <div className="w-100 my-5">
         <Row className="col-11 col-xl-10 px-xl-3 mx-auto">
           <OwlCarousel {...options}>
             {CompanyUsersData.map((data) => {

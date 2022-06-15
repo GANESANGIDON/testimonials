@@ -9,3 +9,10 @@ body {
   padding-top: 65px;
   background-color: #f2f5fe !important;
 }
+
+.footer-icons{
+  display: inline-block;
+  border-radius: 50%;
+  font-weight: 900;
+  padding: 10px 15px;
+}

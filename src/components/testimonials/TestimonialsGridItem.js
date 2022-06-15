@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, Ratio } from "react-bootstrap";
+import { Card } from "react-bootstrap";
 import "./testimonialsGridItem.css";
 
 export default function TestimonialsGridItem({ data }) {
@@ -10,7 +10,7 @@ export default function TestimonialsGridItem({ data }) {
           <div className="d-flex align-items-center">
             {/* reviewer image starts */}
             <Card.Img
-              className="testimonial-img"
+              className="testimonial-img align-self-start"
               src={data.img}
               alt={`img ${data.id}`}
             />
@@ -40,15 +40,9 @@ export default function TestimonialsGridItem({ data }) {
             />
           </div>
           <hr />
-          {data.description ? (
-            <Card.Text className="testimonial-card-text">
-              {data.description}
-            </Card.Text>
-          ) : (
-            <Ratio aspectRatio={100}>
-              <video src={data.video} controls></video>
-            </Ratio>
-          )}
+          <Card.Text className="testimonial-card-text">
+            {data.description}
+          </Card.Text>
         </Card.Body>
       </Card>
     </>

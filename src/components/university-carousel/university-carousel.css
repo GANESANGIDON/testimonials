@@ -1,13 +1,4 @@
-.university-card{
-  background-color: transparent;
-  border: none;
-}
-
 .university-img{
-  max-width: 85px !important;
-}
-
-.university-text{
-  font-size: 0.8rem;
-  line-height: normal;
+  max-width: 180px;
+  margin: auto;
 }

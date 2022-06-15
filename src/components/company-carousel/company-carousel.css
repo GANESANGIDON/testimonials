@@ -3,7 +3,11 @@
   align-items: center;
 }
 
+.owl-item{
+  margin: 0px 7px;
+}
+
 .company-img{
-  max-width: 120px !important;
+  max-width: 140px;
   margin: auto;
 }

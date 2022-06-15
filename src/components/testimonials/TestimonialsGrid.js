@@ -1,8 +1,9 @@
 import { React, useState } from "react";
 import { Row, Col } from "react-bootstrap";
+import { Link } from "react-scroll";
+import { FaAngleDown, FaAngleUp } from "react-icons/fa";
 import TestimonialsData from "./TestimonialsData.json";
 import TestimonialsGridItem from "./TestimonialsGridItem";
-import { FaAngleDown, FaAngleUp } from "react-icons/fa";
 
 export default function TestimonialsGrid() {
   const [cardLimit, setCardLimit] = useState(6);
@@ -15,7 +16,7 @@ export default function TestimonialsGrid() {
   };
   return (
     <>
-      <div className="w-100 my-2">
+      <div className="w-100 pt-5 pb-3" id="testimonialsContainer">
         <Row className="col-11 col-xl-10 px-xl-3 mx-auto">
           {slice.map((data) => {
             return (
@@ -25,30 +26,35 @@ export default function TestimonialsGrid() {
             );
           })}
         </Row>
-        {/* load more button starts */}
-        <span
-          className="text-primary d-block text-center mx-auto"
-          role="button"
-          onClick={
-            !(slice.length === TestimonialsData.length)
-              ? () => showMore()
-              : () => showLess()
-          }
-        >
-          <b>
-            See{" "}
-            {!(slice.length === TestimonialsData.length) ? (
-              <>
-                More <FaAngleDown />
-              </>
-            ) : (
-              <>
-                Less <FaAngleUp />
-              </>
-            )}
-          </b>
-        </span>
-        {/* load more button ends */}
+        {/* see more button starts */}
+        <div className="text-center">
+          {!(slice.length === TestimonialsData.length) ? (
+            <span
+              className="text-primary p-2"
+              role="button"
+              onClick={() => showMore()}
+            >
+              <b>
+                Show More <FaAngleDown />
+              </b>
+            </span>
+          ) : (
+            <Link
+              className="text-primary p-2 text-decoration-none"
+              to="testimonialsContainer"
+              smooth={true}
+              duration={300}
+              offset={-10}
+              role="button"
+              onClick={() => showLess()}
+            >
+              <b>
+                Show Less <FaAngleUp />
+              </b>
+            </Link>
+          )}
+        </div>
+        {/* see more button ends */}
       </div>
     </>
   );

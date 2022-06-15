@@ -17,11 +17,8 @@ export default function UniversityUsersCarousel() {
     768: {
       items: 5,
     },
-    1200: {
-      items: 6,
-    },
     1400: {
-      items: 7,
+      items: 6,
     },
   };
 

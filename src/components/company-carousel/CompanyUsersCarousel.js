@@ -17,11 +17,8 @@ export default function CompanyUsersCarousel() {
     768: {
       items: 5,
     },
-    992: {
-      items: 6,
-    },
     1400: {
-      items: 7,
+      items: 6,
     },
   };
 

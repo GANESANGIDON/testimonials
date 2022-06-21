@@ -1,11 +1,20 @@
 [
   {
+    "id": "0",
+    "img": "images/profile-pics/nqobani.jpeg",
+    "name": "Nqobani Blessing Nyoni",
+    "country": "Zimbabwe",
+    "flag": "https://countryflagsapi.com/png/zw",
+    "socialIcon": "images/icons/linkedin.png",
+    "video": "images/TestimonialVideo/reviewer-nqobani.mp4"
+  },
+  {
     "id": "1",
     "img": "images/profile-pics/vineetha.jpg",
     "name": "Vineetha",
     "country": "India",
     "flag": "https://countryflagsapi.com/png/in",
-    "socialIcon":"images/icons/linkedin.png",
+    "socialIcon": "images/icons/linkedin.png",
     "description": "I was in my 2nd year of Engineering. I was looking for resources online to learn Data Structures and Algorithm concepts. I came to know about Log2Base2 through ads and I was really impressed with their way of teaching. Concepts are explained really well. I feel this is the best way of teaching. At Log2Base2 all foundational concepts are explained in a very simple way and you will definitely build your programming skills. Log2Base2's courses will be helpful for all beginners."
   },
   {
@@ -14,7 +23,7 @@
     "name": "Sasha Ofori",
     "country": "Ghana",
     "flag": "https://countryflagsapi.com/png/gh",
-    "socialIcon":"images/icons/quora.png",
+    "socialIcon": "images/icons/quora.png",
     "description": "I like how short the video sessions are. For someone who has a short attention span, this really helps to grasp ideas within a shorter time. The voiceover is very clear and understandable. Usually, for me, the accent is a barrier watching most educational videos. But here, I was able to follow the voiceover very clearly. Kudos. I really love this platform and it is the first online course I have eagerly paid for. I hope to watch more videos on the platform too."
   },
   {
@@ -23,7 +32,7 @@
     "name": "Abhishek",
     "country": "India",
     "flag": "https://countryflagsapi.com/png/in",
-    "socialIcon":"images/icons/linkedin.png",
+    "socialIcon": "images/icons/linkedin.png",
     "description": "One of the difficulties most beginner programmers face is the ability to understand what is happening once a line of code is executed. It is scientifically proven that visualisation is more helpful to understand concepts better and Log2Base2 does an excellent job in that area. Log2Base2 explains what happens when the code gets executed using beautiful visuals which helps to understand and grasp tough and important concepts like data structures and algorithms."
   },
   {
@@ -32,7 +41,7 @@
     "name": "Soufiane Serghini",
     "country": "Morocco",
     "flag": "https://countryflagsapi.com/png/ma",
-    "socialIcon":"images/icons/facebook.png",
+    "socialIcon": "images/icons/facebook.png",
     "description": "I personally really enjoy learning from Log2Base2, This is my first programming course, very comprehensive, I learned more things than I expected, The way how the animated video explains topics is fantastic. Thank you team Log2Base2!"
   },
   {
@@ -41,7 +50,7 @@
     "name": "John Nonso",
     "country": "Nigeria",
     "flag": "https://countryflagsapi.com/png/ng",
-    "socialIcon":"images/icons/github.png",
+    "socialIcon": "images/icons/github.png",
     "description": "I have been wondering if it was ever possible to understand complex data structures and algorithms. But I finally found a good resource 'LOG2BASE2', I advise fellow learners like me if you want to learn tricks that make algorithms simple and easy to understand please use 'LOG2BASE2', And finally I would really like to thank this organization for the support they are providing for students who are facing challenges affording the course. I wish the world have more organizations like you"
   },
   {
@@ -50,7 +59,7 @@
     "name": "Bharath",
     "country": "India",
     "flag": "https://countryflagsapi.com/png/in",
-    "socialIcon":"images/icons/facebook.png",
+    "socialIcon": "images/icons/facebook.png",
     "description": "Log2Base2 is the best online platform for basic programming knowledge. It is useful for both beginners and intermediate. Complex concepts can be easily learned by visual learning method. A student can boldly face interviews after learning from Log2Base2."
   },
   {
@@ -59,7 +68,7 @@
     "name": "Sarwesh Kumar",
     "country": "India",
     "flag": "https://countryflagsapi.com/png/in",
-    "socialIcon":"images/icons/linkedin.png",
+    "socialIcon": "images/icons/linkedin.png",
     "description": "I was looking for some good resource to learn Data Structures concepts which I found it challenging. Came to know Log2base2 through ad. I browsed through site and immediately got my subscription through Student Offer scheme. The way they convey complex topic within a short period of time is really amazing and I find it very useful to for me."
   },
   {
@@ -68,7 +77,7 @@
     "name": "Rohan Joshi",
     "country": "India",
     "flag": "https://countryflagsapi.com/png/in",
-    "socialIcon":"images/icons/linkedin.png",
+    "socialIcon": "images/icons/linkedin.png",
     "description": "I was in my 2nd year of Engineering, in need of a resource that would help me to learn concepts in Data Structures and Algorithms and I found Log2Base2. After subscribing to the courses, I found that not only me even a 5th standard student can learn easily through this platform. I would recommend Log2Base2 for anyone curious about computers, beginners as well as experts who are willing to strengthen their fundamentals. And one more important aspect, Log2Base2 has strong customer support management, so where ever you get stuck, their team is there to help you."
   },
   {
@@ -77,97 +86,97 @@
     "name": "Mohamed Touli",
     "country": "Morocco",
     "flag": "https://countryflagsapi.com/png/ma",
-    "socialIcon":"images/icons/facebook.png",
+    "socialIcon": "images/icons/facebook.png",
     "description": "Courses at Log2Base2 are very helpful for me. The way it is explained with nice visualization helps me to understand all the concepts. And also, I am happy that I am able to practice the concepts I learned with the help of the exercises given below."
   },
   {
-    "id":"10",
-    "img":"images/profile-pics/ruan.png",
-    "name":"Ruan Carlinsky",
-    "country":"South Africa",
-    "flag":"https://countryflagsapi.com/png/za",
-    "socialIcon":"images/icons/instagram.png",
-    "description":"Log2Base 2 is really great for any programmer at all levels. The teachings are very instructive and the visual cues will greatly improve your understanding of the vast variety of data structures. I personally find log2base 2 vital for all my programming endeavors and it helps me get a good picture of what the data structures are, mentally. Furthermore, the work is very relevant and up to date. I will surely use it for as long as my programming days span."
+    "id": "10",
+    "img": "images/profile-pics/ruan.png",
+    "name": "Ruan Carlinsky",
+    "country": "South Africa",
+    "flag": "https://countryflagsapi.com/png/za",
+    "socialIcon": "images/icons/instagram.png",
+    "description": "Log2Base 2 is really great for any programmer at all levels. The teachings are very instructive and the visual cues will greatly improve your understanding of the vast variety of data structures. I personally find log2base 2 vital for all my programming endeavors and it helps me get a good picture of what the data structures are, mentally. Furthermore, the work is very relevant and up to date. I will surely use it for as long as my programming days span."
   },
   {
-    "id":"11",
-    "img":"images/profile-pics/mofajjel.png",
-    "name":"Mofajjel Hossain",
-    "country":"Bangladesh",
-    "flag":"https://countryflagsapi.com/png/bd",
-    "socialIcon":"images/icons/facebook.png",
-    "description":"It is a very useful website for beginners to learn programming, data structure, and algorithm in an easy way. This programming website is very interactive and easy to understand."
+    "id": "11",
+    "img": "images/profile-pics/mofajjel.png",
+    "name": "Mofajjel Hossain",
+    "country": "Bangladesh",
+    "flag": "https://countryflagsapi.com/png/bd",
+    "socialIcon": "images/icons/facebook.png",
+    "description": "It is a very useful website for beginners to learn programming, data structure, and algorithm in an easy way. This programming website is very interactive and easy to understand."
   },
   {
-    "id":"12",
-    "img":"images/profile-pics/sarthak.jpeg",
-    "name":"Sarthak Dutta",
-    "country":"India",
-    "flag":"https://countryflagsapi.com/png/in",
-    "socialIcon":"images/icons/linkedin.png",
-    "description":"Log2Base2 helped me clearing my doubts regarding programming and data structures. There way of explaining the concepts are dawm fantastic. One of the most important thing is that they will teach you how the concepts are working in real life scenario. I would like to rate Log2Base2 10/10."
+    "id": "12",
+    "img": "images/profile-pics/sarthak.jpeg",
+    "name": "Sarthak Dutta",
+    "country": "India",
+    "flag": "https://countryflagsapi.com/png/in",
+    "socialIcon": "images/icons/linkedin.png",
+    "description": "Log2Base2 helped me clearing my doubts regarding programming and data structures. There way of explaining the concepts are dawm fantastic. One of the most important thing is that they will teach you how the concepts are working in real life scenario. I would like to rate Log2Base2 10/10."
   },
   {
-    "id":"13",
-    "img":"images/profile-pics/tushar.jpg",
-    "name":"Tushar",
-    "country":"India",
-    "flag":"https://countryflagsapi.com/png/in",
-    "socialIcon":"images/icons/linkedin.png",
-    "description":"One of the difficulties most beginner programmers face (including me) is the ability to understand what is happening once a line of code is executed, books may give the theory but, I believe and it is scientifically proven that visualisation is more helpful to understand concepts better (especially the errors) and Log2Base2 does an excellent job in that area."
+    "id": "13",
+    "img": "images/profile-pics/tushar.jpg",
+    "name": "Tushar",
+    "country": "India",
+    "flag": "https://countryflagsapi.com/png/in",
+    "socialIcon": "images/icons/linkedin.png",
+    "description": "One of the difficulties most beginner programmers face (including me) is the ability to understand what is happening once a line of code is executed, books may give the theory but, I believe and it is scientifically proven that visualisation is more helpful to understand concepts better (especially the errors) and Log2Base2 does an excellent job in that area."
   },
   {
-    "id":"14",
-    "img":"images/profile-pics/user.svg",
-    "name":"Ebiti Edide",
-    "country":"Nigeria",
-    "flag":"https://countryflagsapi.com/png/ng",
-    "socialIcon":"images/icons/facebook.png",
-    "description":"The Explanation is superb. I recommend the problem solving with Datastructure and Algorithm course to every self taught programmer who is serious about getting a Job in the giant tech companies and to computer science/software engineering students who are looking for practice time."
+    "id": "14",
+    "img": "images/profile-pics/user.svg",
+    "name": "Ebiti Edide",
+    "country": "Nigeria",
+    "flag": "https://countryflagsapi.com/png/ng",
+    "socialIcon": "images/icons/facebook.png",
+    "description": "The Explanation is superb. I recommend the problem solving with Datastructure and Algorithm course to every self taught programmer who is serious about getting a Job in the giant tech companies and to computer science/software engineering students who are looking for practice time."
   },
   {
-    "id":"15",
-    "img":"images/profile-pics/mohammad.jpeg",
-    "name":"Mohammad Bilal",
-    "country":"India",
-    "flag":"https://countryflagsapi.com/png/in",
-    "socialIcon":"images/icons/linkedin.png",
-    "description":"Log2Base2's way of teaching is really AWESOME. Their content is well organised. They do a wonderful job of explaining thoroughly how each and every line of code works. I have no prior experience in programming even though I understood pretty much everything that were taught in their courses."
+    "id": "15",
+    "img": "images/profile-pics/mohammad.jpeg",
+    "name": "Mohammad Bilal",
+    "country": "India",
+    "flag": "https://countryflagsapi.com/png/in",
+    "socialIcon": "images/icons/linkedin.png",
+    "description": "Log2Base2's way of teaching is really AWESOME. Their content is well organised. They do a wonderful job of explaining thoroughly how each and every line of code works. I have no prior experience in programming even though I understood pretty much everything that were taught in their courses."
   },
   {
-    "id":"16",
-    "img":"images/profile-pics/ismail.png",
-    "name":"ISMAIL",
-    "country":"Morocco",
-    "flag":"https://countryflagsapi.com/png/ma",
-    "socialIcon":"images/icons/facebook.png",
-    "description":"Using animations and down-to-earth explanations to teach complex DSA concepts makes it very easy to learn even the complex concepts."
+    "id": "16",
+    "img": "images/profile-pics/ismail.png",
+    "name": "ISMAIL",
+    "country": "Morocco",
+    "flag": "https://countryflagsapi.com/png/ma",
+    "socialIcon": "images/icons/facebook.png",
+    "description": "Using animations and down-to-earth explanations to teach complex DSA concepts makes it very easy to learn even the complex concepts."
   },
   {
-    "id":"17",
-    "img":"images/profile-pics/dikshit.jpg",
-    "name":"Dhiksith Kotra",
-    "country":"India",
-    "flag":"https://countryflagsapi.com/png/in",
-    "socialIcon":"images/icons/facebook.png",
-    "description":"It's a wonderful place for beginners to learn computer science concepts!! All the examples are scenario based and I feel prices of courses are very competitive compared to the other courses available online. Good work Log2Base2!"
+    "id": "17",
+    "img": "images/profile-pics/dikshit.jpg",
+    "name": "Dhiksith Kotra",
+    "country": "India",
+    "flag": "https://countryflagsapi.com/png/in",
+    "socialIcon": "images/icons/facebook.png",
+    "description": "It's a wonderful place for beginners to learn computer science concepts!! All the examples are scenario based and I feel prices of courses are very competitive compared to the other courses available online. Good work Log2Base2!"
   },
   {
-    "id":"18",
-    "img":"images/profile-pics/roopesh.jpg",
-    "name":"Roopesh",
-    "country":"India",
-    "flag":"https://countryflagsapi.com/png/in",
-    "socialIcon":"images/icons/facebook.png",
-    "description":"When I was searching for data structure and algorithms YouTube recommended Log2Base2 videos those were simple, short and very interesting I watched data structures course with in 3 days. I recommended it to all my friends. Everybody were surprised with these animated lectures. I never learned such complex topics in a short time."
+    "id": "18",
+    "img": "images/profile-pics/roopesh.jpg",
+    "name": "Roopesh",
+    "country": "India",
+    "flag": "https://countryflagsapi.com/png/in",
+    "socialIcon": "images/icons/facebook.png",
+    "description": "When I was searching for data structure and algorithms YouTube recommended Log2Base2 videos those were simple, short and very interesting I watched data structures course with in 3 days. I recommended it to all my friends. Everybody were surprised with these animated lectures. I never learned such complex topics in a short time."
   },
   {
-    "id":"19",
-    "img":"images/profile-pics/ayoub.png",
-    "name":"Ayoub",
-    "country":"Morocco",
-    "flag":"https://countryflagsapi.com/png/ma",
-    "socialIcon":"images/icons/facebook.png",
-    "description":"The best thing about this course is that anyone, even a child can learn how to program. Because in every step the course use animations to show you how things are working. It makes everything simple and that's exactly what makes me appreciate this amazing work. Good luck to you guys. Keep going!!"
+    "id": "19",
+    "img": "images/profile-pics/ayoub.png",
+    "name": "Ayoub",
+    "country": "Morocco",
+    "flag": "https://countryflagsapi.com/png/ma",
+    "socialIcon": "images/icons/facebook.png",
+    "description": "The best thing about this course is that anyone, even a child can learn how to program. Because in every step the course use animations to show you how things are working. It makes everything simple and that's exactly what makes me appreciate this amazing work. Good luck to you guys. Keep going!!"
   }
 ]

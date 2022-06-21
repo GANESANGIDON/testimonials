@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Fragment } from "react";
 import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
@@ -32,7 +32,7 @@ export default function CompanyUsersCarousel() {
   };
 
   return (
-    <>
+    <Fragment>
       <div className="w-100 my-5">
         <Row className="col-11 col-xl-10 px-xl-3 mx-auto">
           <OwlCarousel {...options}>
@@ -42,6 +42,6 @@ export default function CompanyUsersCarousel() {
           </OwlCarousel>
         </Row>
       </div>
-    </>
+    </Fragment>
   );
 }

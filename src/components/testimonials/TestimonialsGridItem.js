@@ -1,10 +1,10 @@
-import React from "react";
-import { Card } from "react-bootstrap";
+import React, { Fragment } from "react";
+import { Card, Ratio } from "react-bootstrap";
 import "./testimonialsGridItem.css";
 
 export default function TestimonialsGridItem({ data }) {
   return (
-    <>
+    <Fragment>
       <Card className="h-100 testimonial-card">
         <Card.Body>
           <div className="d-flex align-items-center">
@@ -40,11 +40,17 @@ export default function TestimonialsGridItem({ data }) {
             />
           </div>
           <hr />
-          <Card.Text className="testimonial-card-text">
-            {data.description}
-          </Card.Text>
+          {data.description ? (
+            <Card.Text className="testimonial-card-text">
+              {data.description}
+            </Card.Text>
+          ) : (
+            <Ratio aspectRatio={100}>
+              <video src={data.video} controls></video>
+            </Ratio>
+          )}
         </Card.Body>
       </Card>
-    </>
+    </Fragment>
   );
 }

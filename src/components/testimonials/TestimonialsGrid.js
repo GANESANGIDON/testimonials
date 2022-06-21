@@ -1,4 +1,4 @@
-import { React, useState } from "react";
+import React, { useState, Fragment } from "react";
 import { Row, Col } from "react-bootstrap";
 import { Link } from "react-scroll";
 import { FaAngleDown, FaAngleUp } from "react-icons/fa";
@@ -15,7 +15,7 @@ export default function TestimonialsGrid() {
     setCardLimit(6);
   };
   return (
-    <>
+    <Fragment>
       <div className="w-100 pt-5 pb-3" id="testimonialsContainer">
         <Row className="col-11 col-xl-10 px-xl-3 mx-auto">
           {slice.map((data) => {
@@ -56,6 +56,6 @@ export default function TestimonialsGrid() {
         </div>
         {/* see more button ends */}
       </div>
-    </>
+    </Fragment>
   );
 }

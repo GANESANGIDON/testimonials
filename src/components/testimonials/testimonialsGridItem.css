@@ -1,16 +1,21 @@
 .testimonial-card{
-  border-radius: 10px;
+  border-radius: 8px;
 }
 
 .testimonial-img{
-  width: 55px;
+  width: 52px;
   border-radius: 50%;
-  box-shadow: 0px 0px 3px rgb(58, 58, 58);
+  box-shadow: 0px 0px 2px rgb(63, 63, 63);
+}
+
+.testimonial-reviewer-details{
+  margin-left: 8px;
 }
 
 .testimonial-card-title{
   font-size: 1.1rem;
   font-weight: 500;
+  margin-bottom: 1px;
 }
 
 .testimonial-flag-img{
@@ -20,13 +25,89 @@
 .testimonial-card-subtitle{
   font-size: 1rem;
   font-weight: 500;
+  margin-left: 6px;
 }
 
 .testimonial-social-icon{
-  width: 18px;
-  height: 18px;
+  font-size: 16px;
+  align-self: start;
+  margin-left: auto;
+  cursor: pointer;
+}
+
+.icon-linkedin{
+ color: #2066C2;
+}
+
+.icon-facebook{
+  color: #2277F2;
+}
+
+.icon-instagram{
+  color: #eb1b71;
+}
+
+.icon-quora{
+  color: #B92B27;
+}
+
+.icon-github{
+  color: #0A0C10;
+}
+
+.testimonial-hr-line{
+  margin: 12px 0px !important;
 }
 
 .testimonial-card-text{
   font-size: 0.9rem;
+}
+
+.testimonial-video{
+  max-width: 580px !important;
+  margin: 0px auto !important;
+}
+
+/* --------------------------For tablet devices-------------------------- */
+@media(min-width: 576px){
+  .testimonial-reviewer-details{
+    margin-left:10px;
+  }
+
+  .testimonial-social-icon{
+    font-size: 18px;
+  }
+}
+
+/* --------------------------For large laptop devices-------------------------- */
+@media(min-width: 992px){
+  .testimonial-img{
+    width: 55px;
+  }
+}
+
+/* --------------------------For 4K devices-------------------------- */
+@media(min-width: 1440px){
+  .testimonial-card-title{
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+  
+  .testimonial-flag-img{
+    width: 25px;
+  }
+  
+  .testimonial-card-subtitle{
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-left: 8px;
+  }
+  
+  .testimonial-social-icon{
+    font-size: 21px;
+  }
+
+  .testimonial-card-text{
+    font-size: 1rem;
+  }
 }

@@ -18,13 +18,13 @@ export default function App() {
       >
         <div className="col-11 col-xl-10 px-xl-3 mx-auto d-flex justify-content-between">
           <a
-            className="h2 text-primary text-decoration-none"
+            className="h4 text-decoration-none"
             role="button"
             href="/"
           >
-            @ Log2Base2
+          <b className="px-1 rounded text-light bg-primary bg-gradient">&#8736;</b>{' '}<b>Log2Base2</b>
           </a>
-          <Button className=" btn-sm px-3">Try for FREE</Button>
+          <Button className="btn-sm px-3">Try for FREE</Button>
         </div>
       </Navbar>
       {/* navbar ends */}

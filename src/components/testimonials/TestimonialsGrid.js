@@ -17,10 +17,10 @@ export default function TestimonialsGrid() {
   return (
     <Fragment>
       <div className="w-100 pt-5 pb-3" id="testimonialsContainer">
-        <Row className="col-11 col-xl-10 px-xl-3 mx-auto">
+        <Row className="col-11 col-xl-10 mx-auto">
           {slice.map((data) => {
             return (
-              <Col md={6} lg={4} key={data.id} className="my-3">
+              <Col md={6} lg={4} key={data.id} className="my-3 px-xxl-3">
                 <TestimonialsGridItem data={data} />
               </Col>
             );

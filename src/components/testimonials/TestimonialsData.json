@@ -6,17 +6,15 @@
     "country": "Zimbabwe",
     "flag": "https://countryflagsapi.com/png/zw",
     "socialType": "linkedin",
-    "socialLink": "https://www.linkedin.com/in/nqobani-blessing-nyoni-753414209/",
     "video": "images/TestimonialVideo/reviewer-nqobani.mp4"
   },
   {
-    "id":"2",
-    "img":"images/profile-pics/anik.jpeg",
-    "name":"Anik Saha Aorno",
-    "country":"Bangladesh",
+    "id": "2",
+    "img": "images/profile-pics/anik.jpeg",
+    "name": "Anik Saha Aorno",
+    "country": "Bangladesh",
     "flag": "https://countryflagsapi.com/png/bd",
     "socialType": "linkedin",
-    "socialLink":"https://www.linkedin.com/in/anik-saha-aorno-b691081ba/",
     "video": "images/TestimonialVideo/reviewer-anik.mp4"
   },
   {

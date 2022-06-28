@@ -10,17 +10,8 @@ import {
 import "./testimonialsGridItem.css";
 
 export default function TestimonialsGridItem({ data }) {
-  const {
-    id,
-    img,
-    name,
-    country,
-    flag,
-    socialType,
-    socialLink,
-    video,
-    description,
-  } = data;
+  const { id, img, name, country, flag, socialType, video, description } = data;
+  
   return (
     <Fragment>
       <Card
@@ -57,7 +48,7 @@ export default function TestimonialsGridItem({ data }) {
             </div>
             {/* reviewer details ends */}
             {/* social icon starts */}
-            <a href={socialLink} className="testimonial-social-icon">
+            <span className="testimonial-social-icon">
               {socialType === "linkedin" ? (
                 <FaLinkedinIn className="icon-linkedin" />
               ) : socialType === "facebook" ? (
@@ -69,7 +60,7 @@ export default function TestimonialsGridItem({ data }) {
               ) : (
                 <FaGithub className="icon-github" />
               )}
-            </a>
+            </span>
             {/* social icon ends */}
           </div>
           <hr className="testimonial-hr-line" />
